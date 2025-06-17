@@ -30,6 +30,8 @@ Model: Multi-Layer Perceptron (MLP)
 
 The model shows excellent generalization with minimal overfitting. Further improvements can include hyperparameter tuning or training for more epochs to achieve even higher accuracy.
 
+<img width="731" alt="Screenshot 2025-06-18 at 4 39 43 AM" src="https://github.com/user-attachments/assets/f145e285-64b2-4681-a804-846a55a1b98c" />
+
 
 ## Steps Covered in the Notebook
 
